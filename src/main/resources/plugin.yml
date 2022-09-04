@@ -1,0 +1,4 @@
+name: WorldTimeModifier
+version: '${version}'
+main: me.spike.worldtimemodifier.WorldTimeModifier
+api-version: 1.16
